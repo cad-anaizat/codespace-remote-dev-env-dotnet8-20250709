@@ -1,0 +1,6 @@
+@codespace_remote_dev_env_dotnet8_20250709_HostAddress = http://localhost:5204
+
+GET {{codespace_remote_dev_env_dotnet8_20250709_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
