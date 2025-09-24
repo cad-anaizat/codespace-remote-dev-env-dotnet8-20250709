@@ -1,11 +1,11 @@
 
-````markdown
 # 🚀 Codespace Remote Dev Env (.NET 8) – 20250709
 
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/)
-[![Built With](https://img.shields.io/badge/Stack-C%23%20%7C%20.NET%208%20%7C%20Codespaces-blue)](https://learn.microsoft.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
-[![MSSA](https://img.shields.io/badge/MSSA-Cloud%20Application%20Development-green)](https://military.microsoft.com/)
+[![Built With](https://img.shields.io/badge/Stack-C%23%20%7C%20.NET%208%20%7C%20Codespaces-blue)](https://dotnet.microsoft.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![MSSA](https://img.shields.io/badge/MSSA-Cloud%20Application%20Development-green)](https://military.microsoft.com/programs/mssa/)
+
 
 > **Mission**: Stand up a cloud-powered, containerized development environment using GitHub Codespaces for consistent, fast, and collaborative .NET 8 development.
 
