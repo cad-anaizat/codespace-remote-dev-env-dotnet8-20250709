@@ -1,8 +1,12 @@
 {
   "image": "mcr.microsoft.com/vscode/devcontainers/dotnet:8.0",
-  "postCreateCommand": "dotnet restore",
-  "extensions": [
-    "ms-dotnettools.csharp",
-    "GitHub.copilot"
-  ]
+  "postCreateCommand": "dotnet tool restore",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csharp",
+        "GitHub.copilot"
+      ]
+    }
+  }
 }
